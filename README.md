@@ -13,8 +13,10 @@ O sistema foi desenvolvido utilizando RTL Design (Verilog) abordando domínios l
 O projeto foi totalmente validado em hardware integrando a FPGA a Filtros Passa-Faixa e Passa-Baixa analógicos. 
 
 **1. Sinal Original Gerado (DDS)**
+
 <img width="565" height="346" alt="canvas2" src="https://github.com/user-attachments/assets/1b6acf27-6410-4763-8d27-7b8b93b19f0b" />
 
 
 **2. Sinal Analógico Reconstruído no Receptor**
+
 <img width="644" height="375" alt="canvas3" src="https://github.com/user-attachments/assets/0d32b807-9258-46bb-a906-cc487626b9ee" />
