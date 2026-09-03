@@ -19,4 +19,5 @@ O projeto foi totalmente validado em hardware integrando a FPGA a Filtros Passa-
 
 **2. Sinal Analógico Reconstruído no Receptor**
 
-<img width="644" height="375" alt="canvas3" src="https://github.com/user-attachments/assets/0d32b807-9258-46bb-a906-cc487626b9ee" />
+<img width="642" height="374" alt="canvas3" src="https://github.com/user-attachments/assets/3dd02478-39fb-42db-b77c-a1dea24f3884" />
+
